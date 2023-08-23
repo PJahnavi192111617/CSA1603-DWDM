@@ -1,0 +1,11 @@
+Persons<-c("Gopu","Babu","Baby","Gopal","krishna","Jai","Dev","Malini","Hema","Anu")
+veg<-c(3)
+non_veg<-c(7)
+if(veg>non_veg)
+{
+  print(veg)
+}
+if(veg<non_veg)
+{
+  print(non_veg)
+}
